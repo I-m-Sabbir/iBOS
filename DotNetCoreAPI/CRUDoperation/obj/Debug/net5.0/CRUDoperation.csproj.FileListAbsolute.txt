@@ -1,0 +1,15 @@
+G:\iBOS\DotNetCoreAPI\CRUDoperation\bin\Debug\net5.0\CRUDoperation.deps.json
+G:\iBOS\DotNetCoreAPI\CRUDoperation\bin\Debug\net5.0\CRUDoperation.runtimeconfig.json
+G:\iBOS\DotNetCoreAPI\CRUDoperation\bin\Debug\net5.0\CRUDoperation.runtimeconfig.dev.json
+G:\iBOS\DotNetCoreAPI\CRUDoperation\bin\Debug\net5.0\CRUDoperation.dll
+G:\iBOS\DotNetCoreAPI\CRUDoperation\bin\Debug\net5.0\ref\CRUDoperation.dll
+G:\iBOS\DotNetCoreAPI\CRUDoperation\bin\Debug\net5.0\CRUDoperation.pdb
+G:\iBOS\DotNetCoreAPI\CRUDoperation\obj\Debug\net5.0\CRUDoperation.csprojAssemblyReference.cache
+G:\iBOS\DotNetCoreAPI\CRUDoperation\obj\Debug\net5.0\CRUDoperation.GeneratedMSBuildEditorConfig.editorconfig
+G:\iBOS\DotNetCoreAPI\CRUDoperation\obj\Debug\net5.0\CRUDoperation.AssemblyInfoInputs.cache
+G:\iBOS\DotNetCoreAPI\CRUDoperation\obj\Debug\net5.0\CRUDoperation.AssemblyInfo.cs
+G:\iBOS\DotNetCoreAPI\CRUDoperation\obj\Debug\net5.0\CRUDoperation.csproj.CoreCompileInputs.cache
+G:\iBOS\DotNetCoreAPI\CRUDoperation\obj\Debug\net5.0\CRUDoperation.dll
+G:\iBOS\DotNetCoreAPI\CRUDoperation\obj\Debug\net5.0\ref\CRUDoperation.dll
+G:\iBOS\DotNetCoreAPI\CRUDoperation\obj\Debug\net5.0\CRUDoperation.pdb
+G:\iBOS\DotNetCoreAPI\CRUDoperation\obj\Debug\net5.0\CRUDoperation.genruntimeconfig.cache
