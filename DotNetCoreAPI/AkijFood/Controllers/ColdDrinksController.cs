@@ -86,20 +86,19 @@ namespace AkijFood.Controllers
 
         [Route("API06")]
         [HttpGet]
-        public List<decimal> API06()
+        public decimal API06()
         {
             var Drinks = _context.tblColdDrinks.ToArray();
 
-            List<decimal> totalPrice = new List<decimal>();
+            
             decimal Sum = 0;
             for (var i =0; i< Drinks.Length; i++)
             {
                 var price = Drinks[i].numQuantity * Drinks[i].numUnitPrice;
-                totalPrice.Add(price);
-                Sum =+ price;
+                Sum = Sum + price;
             }
-            totalPrice.Add(Sum);
-            return totalPrice;
+            
+            return Sum;
         }
     }
 }
